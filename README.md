@@ -13,7 +13,7 @@ pkg install bash
 
 انت لان تبت لازم تبت لاداة 
 
-git clone https://github.com/hackermohamedPro/ALIENS.HaCK.Camera
+https://github.com/Moatoasm/MOTASEM.git
 
 
 جيد ادخل للاداة 
